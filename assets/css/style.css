@@ -375,8 +375,8 @@ footer{
   margin-top: 1px;
 }
 .img5{
-  width: 70px;
-  height: 150px !important;
+  width: 60px;
+  height: 110px !important;
   margin-left: 1px;
   margin-top: -50px;
 }
@@ -408,11 +408,11 @@ footer{
     }
 
 .faltan{
-      margin: 30px;
+      margin: 10px;
     }
 .timer{
         display: inline-block;
-        margin: 0 40px;
+        margin: 0 60px;
         color: #3A3D71;
         font-size: 20px;
         position: relative;
@@ -451,7 +451,7 @@ footer{
         width: 70px !important;
         height: 150px !important;
         margin-left: 227px;
-        margin-top: -385px;
+        margin-top: -375px;
         margin-bottom: 10px;
       }
     }
