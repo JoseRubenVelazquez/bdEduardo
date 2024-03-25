@@ -425,7 +425,7 @@ footer{
         color: #3A3D71;
         font-weight: 500; 
         height: 100px;
-        margin-top: -30px;
+        margin-top: -15px;
       }
 .countdown p{
           width: auto;
@@ -438,7 +438,8 @@ p{
    font-size: 10px !important;
 }
 footer{
-  margin-top: 120px;
+  margin-top: 150px;
+  margin-bottom: 1px !important;
 }
 .footer{
         font-size: 20px !important;
