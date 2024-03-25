@@ -375,7 +375,7 @@ footer{
   margin-top: 1px;
 }
 .img5{
-  width: 100px;
+  width: 70px;
   height: 150px !important;
   margin-left: 1px;
   margin-top: -50px;
@@ -412,9 +412,9 @@ footer{
     }
 .timer{
         display: inline-block;
-        margin: 0 20px;
+        margin: 0 40px;
         color: #3A3D71;
-        font-size: 18px;
+        font-size: 20px;
         position: relative;
         bottom: 30px;
         height: 100px;
