@@ -244,27 +244,21 @@ a:hover{
   margin: 20px 0 0;
 }
 .timer{
-    /*display: inline-block;*/
     margin: 0 430px;
     padding: 10px;
     color: #3A3D71;
     font-size: 20px;
-    /*position: relative;*/
-    /*bottom: 30px;
-    /*text-align: center;*/
     height: 100px;
   }
   .countdown div{
     float: left;
     padding: 10px;
     color: #3A3D71;
-    /*font-weight: 500; 
-    height: 100px; */
   }
   .countdown p{
       width: auto;
       font-weight: bold;
-      font-size: 40px;
+      font-size: 30px !important;
       color: #3A3D71 ;
   }
   .img6{
@@ -437,7 +431,7 @@ footer{
 .countdown p{
           width: auto;
           font-weight: 500;
-          font-size: 25px;
+          font-size: 25px !important;
           margin-bottom: -3px;
       }
 p{
@@ -453,7 +447,7 @@ footer{
         font-size: 20px;
       }
 .img6{
-        width: 100px !important;
+        width: 80px !important;
         height: 150px !important;
         margin-left: 230px;
         margin-top: -195px;margin-bottom: 10px;
