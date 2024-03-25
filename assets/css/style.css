@@ -414,7 +414,7 @@ footer{
         display: inline-block;
         margin: 0 40px;
         color: #3A3D71;
-        font-size: 20px;
+        font-size: 18px;
         position: relative;
         bottom: 30px;
        /* text-align: center;*/
@@ -422,7 +422,7 @@ footer{
       }
 .countdown div{
         float: left;
-        padding: 10px;
+        padding: 5px;
         color: #3A3D71;
         font-weight: 500; 
         height: 100px;
@@ -431,7 +431,7 @@ footer{
 .countdown p{
           width: auto;
           font-weight: 500;
-          font-size: 20px !important;
+          font-size: 18px !important;
           margin-bottom: -3px;
       }
 p{
@@ -448,9 +448,9 @@ footer{
         font-size: 20px !important;
       }
 .img6{
-        width: 80px !important;
+        width: 70px !important;
         height: 150px !important;
-        margin-left: 251px;
+        margin-left: 241px;
         margin-top: -385px;
         margin-bottom: 10px;
       }
