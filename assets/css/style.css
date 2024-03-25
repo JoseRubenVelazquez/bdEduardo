@@ -414,7 +414,7 @@ footer{
         display: inline-block;
         margin: 0 40px;
         color: #3A3D71;
-        font-size: 20px;
+        font-size: 18px;
         position: relative;
         bottom: 30px;
         height: 100px;
@@ -430,7 +430,7 @@ footer{
 .countdown p{
           width: auto;
           font-weight: 500;
-          font-size: 18px !important;
+          font-size: 20px !important;
           margin-bottom: -3px;
       }
 p{
@@ -438,7 +438,7 @@ p{
    font-size: 10px !important;
 }
 footer{
-  margin-top: 200px;
+  margin-top: 180px;
   margin-bottom: 1px !important;
 }
 .footer{
@@ -451,7 +451,7 @@ footer{
         width: 70px !important;
         height: 150px !important;
         margin-left: 227px;
-        margin-top: -375px;
+        margin-top: -305px;
         margin-bottom: 10px;
       }
     }
