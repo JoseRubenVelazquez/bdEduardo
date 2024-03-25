@@ -265,7 +265,8 @@ a:hover{
     height: 200px;
     width: 180px;
     display: block;
-    margin: -210px 0 0 670px ;
+    float: right;
+    /*margin: -210px 0 0 670px;*/
   }
 
 /*Footer*/
@@ -450,7 +451,7 @@ footer{
 .img6{
         width: 70px !important;
         height: 150px !important;
-        margin-left: 225px;
+        /*margin-left: 225px;*/
         margin-top: -230px;
         margin-bottom: 10px;
       }
