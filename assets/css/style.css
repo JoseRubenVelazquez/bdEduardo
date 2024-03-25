@@ -322,7 +322,7 @@ footer{
     margin-top: -10px;
   }
   .title img{
-    height: 180px !important;
+    height: 220px !important;
     width: 290px !important;
   }
   .name{
@@ -438,7 +438,7 @@ p{
    font-size: 10px !important;
 }
 footer{
-  margin-top: 30px;
+  margin-top: 80px;
   margin-bottom: 1px !important;
 }
 .footer{
