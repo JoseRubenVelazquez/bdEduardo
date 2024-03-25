@@ -417,7 +417,7 @@ footer{
         font-size: 20px;
         position: relative;
         bottom: 30px;
-        text-align: center;
+       /* text-align: center;*/
         height: 100px;
       }
 .countdown div{
@@ -435,8 +435,9 @@ footer{
           margin-bottom: -3px;
       }
 p{
-        color: #3A3D71;
-      }
+   color: #3A3D71;
+   font-size: 20px !important;
+}
 footer{
   margin-top: -30px;
 }
@@ -449,7 +450,8 @@ footer{
 .img6{
         width: 80px !important;
         height: 150px !important;
-        margin-left: 230px;
-        margin-top: -195px;margin-bottom: 10px;
+        margin-left: 251px;
+        margin-top: -285px;
+        margin-bottom: 10px;
       }
     }
