@@ -319,7 +319,7 @@ footer{
  }
   .title{
     text-align: center;
-    margin-top: -30px;
+    margin-top: -10px;
   }
   .title img{
     height: 120px !important;
@@ -334,10 +334,10 @@ footer{
     width: 270px !important; 
   }
 .t1{
-  font-size: 20px !important;
+  font-size: 18px !important;
 }
 .text{
-  font-size: 20px !important;
+  font-size: 18px !important;
 }
 .img3{
   text-align: center !important;
@@ -345,7 +345,7 @@ footer{
   width: 200px !important; 
 }
 .p{
-  font-size: 20px !important;
+  font-size: 18px !important;
   margin-top: 1px;
 }
 .gallery {
@@ -390,7 +390,7 @@ footer{
         border-color: #3A3D71;
         border-radius: 10px;
         font-weight: bold;
-        font-size: 22px;
+        font-size: 20px;
         color: #3A3D71;
         margin: auto;
         margin-bottom: 10px; 
@@ -431,21 +431,21 @@ footer{
 .countdown p{
           width: auto;
           font-weight: 500;
-          font-size: 25px !important;
+          font-size: 20px !important;
           margin-bottom: -3px;
       }
 p{
    color: #3A3D71;
-   font-size: 20px !important;
+   font-size: 10px !important;
 }
 footer{
   margin-top: -30px;
 }
 .footer{
-        font-size: 20px;
+        font-size: 20px !important;
       }
 .phone{
-        font-size: 20px;
+        font-size: 20px !important;
       }
 .img6{
         width: 80px !important;
