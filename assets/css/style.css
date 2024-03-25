@@ -375,8 +375,8 @@ footer{
   margin-top: 1px;
 }
 .img5{
-  width: 60px;
-  height: 110px !important;
+  width: 68px;
+  height: 130px !important;
   margin-left: 1px;
   margin-top: -50px;
 }
@@ -412,7 +412,7 @@ footer{
     }
 .timer{
         display: inline-block;
-        margin: 0 60px;
+        margin: 0 40px;
         color: #3A3D71;
         font-size: 20px;
         position: relative;
@@ -430,7 +430,7 @@ footer{
 .countdown p{
           width: auto;
           font-weight: 500;
-          font-size: 18px !important;
+          font-size: 22px !important;
           margin-bottom: -3px;
       }
 p{
